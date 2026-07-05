@@ -3,5 +3,8 @@
     "vault-colors",
     "ITS-Dataview-Cards",
     "ITS-Image-Adjustments"
-  ]
+  ],
+  "cssTheme": "GitHubDHC",
+  "accentColor": "",
+  "theme": "obsidian"
 }
